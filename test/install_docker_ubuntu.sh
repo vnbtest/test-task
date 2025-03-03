@@ -43,7 +43,7 @@ sudo sh test-docker.sh
 #-----------------------------------------------
 
 
-cd test/p-web-app
+  cd p-web-app
 
 # Docker build and test
   sudo docker build -t p-web-app .
