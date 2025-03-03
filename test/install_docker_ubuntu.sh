@@ -51,6 +51,8 @@ sudo sh test-docker.sh
 # Docker run  
   sudo docker run -d -p 8080:5000 p-web-app
 
+  sleep 20
+
 # Docker test web-app    
   curl -u "admin":"admin" http://localhost:8080/get-time
 
