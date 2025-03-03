@@ -49,8 +49,6 @@ sudo rm /etc/apt/keyrings/docker.asc
 
 #-----------------------------------------------
 
-# Clone test repo
-git clone https://github.com/vnbtest/test-task
 
 cd test/p-web-app
 
